@@ -9,12 +9,16 @@
 
 - 🌱 I’m currently learning **react and redux**
 
-- 👨‍💻 All of my projects are available at [https://parikshit-holey-230.netlify.app/](https://parikshit-holey-230.netlify.app/)
 
 - 💬 Ask me about **DSA , REACT , JAVASCRIPT , NODE.JS**
 
 - 📫 How to reach me **parikshitholey20@gmail.com**
 - Visit My Portfolio  https://parikshit-holey-230.netlify.app/
+
+- 👨‍💻 All of my projects are available at here
+- 1) degya.com an ecommerce website - https://deyga-clone-bk.netlify.app/
+- 2) sony.co.in an ecommerce website of electronics products https://sonyclone.netlify.app/index.html
+- 3) naukari.com its my individual project https://sleepy-morse-58822e.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
