@@ -13,7 +13,7 @@
 - 💬 Ask me about **DSA , REACT , JAVASCRIPT , NODE.JS**
 
 - 📫 How to reach me **parikshitholey20@gmail.com**
-- Visit My Portfolio  https://parikshit-holey-230.netlify.app/
+- Visit My Portfolio  https://parikshitholey.github.io
 
 - 👨‍💻 All of my projects are available at here
 - 1) degya.com an ecommerce website - https://deyga-clone-bk.netlify.app/
