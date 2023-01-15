@@ -1,4 +1,4 @@
-<p><img width="100% src="https://tse1.mm.bing.net/th?id=OIP.vHHBwcUFUaHWXntSnqKdCAHaEK&pid=Api&P=0"  alt="parikshitholey" /></p>
+
 <h1 align="center">Hi 👋, I'm Parikshit Holey</h1>
 <h3 align="center">A passionate Full-Stack-Web developer from India</h3>
 
