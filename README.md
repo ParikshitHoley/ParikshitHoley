@@ -18,7 +18,7 @@
 - Visit My Portfolio  https://parikshitholey.github.io
 
 - 👨‍💻 All of my projects are available at here
-- 1) degya.com an ecommerce website - https://deyga-clone-bk.netlify.app/
+- 1) beauty.com an ecommerce website - https://parikshit123.netlify.app/
 - 2) sony.co.in an ecommerce website of electronics products https://sonyclone.netlify.app/index.html
 - 3) naukari.com its my individual project https://sleepy-morse-58822e.netlify.app
 
