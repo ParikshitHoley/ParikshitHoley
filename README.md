@@ -1,5 +1,5 @@
 
-<img align="center" src="https://camo.githubusercontent.com/8d5deef06a13d0ae4d973c3947748e85eae585dcf91861de1b0f97700876c9e3/68747470733a2f2f7777772e7362722d746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6d65726e2e706e67" alt="parikshitholey" />
+<img align="center" src="http://classifieds.usatoday.com/wp-content/uploads/2017/12/web-developer-skills-768x512.jpeg" alt="parikshitholey" />
 <h1 align="center">Hi 👋, I'm Parikshit Holey</h1>
 <h3 align="center">A passionate Full-Stack-Web developer from India</h3>
 
