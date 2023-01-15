@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parikshit Holey</h1>
+<p><img src="https://tse1.mm.bing.net/th?id=OIP.vHHBwcUFUaHWXntSnqKdCAHaEK&pid=Api&P=0"  alt="parikshitholey" /></p>
 <h3 align="center">A passionate Full-Stack-Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parikshitholey&label=Profile%20views&color=0e75b6&style=flat" alt="parikshitholey" /> </p>
