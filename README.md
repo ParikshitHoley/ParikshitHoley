@@ -1,37 +1,117 @@
 
-<img align="center" src="https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" alt="parikshitholey" />
-<h1 align="center">Hi 👋, I'm Parikshit Holey</h1>
-<h3 align="center">A passionate Full-Stack-Web developer from India</h3>
+# 👋 Hi, I'm Parikshit Holey
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parikshitholey&label=Profile%20views&color=0e75b6&style=flat" alt="parikshitholey" /> </p>
+🚀 Frontend Engineer | React | Next.js | FastAPI | Generative AI Learner  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parikshitholey" alt="parikshitholey" /></a> </p>
+I am a software engineer with **3.5+ years of experience** building production-grade web applications used by real businesses.  
+Currently working with an **Italy-based fintech product company (WeUnit Group)** where I contribute to an enterprise credit management platform.
 
-- 🔭 I’m currently working in Masai School **as Instructional Associate**
+I specialize in building **scalable UI architectures, complex workflows, and high-performance frontend applications** using modern JavaScript ecosystems.
 
-- 🌱 I’m currently learning **react and redux**
+---
 
+## 💼 Professional Experience
 
-- 💬 Ask me about **DSA , REACT , JAVASCRIPT , NODE.JS**
+- 🏦 Core Frontend Engineer for **7Hub Credit Operating System** (Fintech Platform)
+- ⚛️ Built scalable applications using React, Redux, and modern patterns
+- 🔗 Integrated frontend with FastAPI backend and PostgreSQL databases
+- 🚀 Improved performance using lazy loading, optimization, and reusable components
+- 🌍 Experience working with international Agile teams (Italy)
 
-- 📫 How to reach me **parikshitholey20@gmail.com**
-- Visit My Portfolio  https://parikshitholey.github.io
+---
 
-- 👨‍💻 All of my projects are available at here
-- 1) beauty.com an ecommerce website - https://parikshit123.netlify.app/
-- 2) sony.co.in an ecommerce website of electronics products https://sonyclone.netlify.app/index.html
-- 3) naukari.com its my individual project https://sleepy-morse-58822e.netlify.app
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/parikshit holey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parikshit holey" height="30" width="40" /></a>
-</p>
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- Redux / TanStack Query
+- Tailwind CSS
+- Bootstrap
+- HTML5 / CSS3
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### Backend
+- Python
+- FastAPI
+- REST APIs
+- PostgreSQL
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parikshitholey&show_icons=true&locale=en&layout=compact&theme=dark"  alt="parikshitholey" /></p>
+### Tools & Practices
+- Git & GitHub
+- Docker (Basic)
+- Postman
+- Agile / Scrum
+- CI/CD
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parikshitholey&show_icons=true&locale=en" alt="parikshitholey" /></p>
+### Currently Learning 🚀
+- Generative AI & LLM Integration
+- OpenAI APIs
+- AI-powered Applications with Next.js
+- Advanced System Design for Frontend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parikshitholey&" alt="parikshitholey" /></p>
+---
+
+## 📌 Featured Projects
+
+### 🏦 7Hub Credit Operating System
+Enterprise fintech platform for managing:
+
+- Mortgages
+- Personal loans
+- Salary-backed loans
+- Insurance workflows
+
+**Tech:** React, Redux, FastAPI, PostgreSQL, Tailwind CSS, Bootstrap
+
+---
+
+### 🤖 AI Document Assistant (GenAI Project)
+AI-powered application that allows users to upload documents and interact using natural language.
+
+**Features:**
+- Chat with documents
+- Context-aware AI responses
+- Modern UI with Next.js
+- Backend APIs with FastAPI
+
+**Tech:** Next.js, OpenAI API, FastAPI, PostgreSQL
+
+---
+
+### 🌐 Portfolio Website
+Personal developer portfolio showcasing projects and skills.
+
+🔗 https://parikshitholey.github.io
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🎯 Career Goals
+
+I am currently focused on becoming a:
+
+➡️ **Senior Frontend Engineer / Full Stack Engineer**  
+➡️ Building **AI-powered SaaS applications**  
+➡️ Working on **high-scale product architecture**
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/parikshit-holey
+- Portfolio: https://parikshitholey.github.io
+- Email: parikshitholey20@gmail.com
+
+---
+
+⭐️ If you like my work, feel free to explore my repositories and connect with me!
+
